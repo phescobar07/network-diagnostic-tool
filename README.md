@@ -1,4 +1,4 @@
-# 🧠 Network Diagnostic - Paulo Henrique Edition
+# 🧠 Network Diagnostic - GOAT Edition
 
 A beginner-friendly internet diagnostic tool built in Python. Designed for quick checks of gateway connection, internet status, IP info and speed test — all in one run.
 
